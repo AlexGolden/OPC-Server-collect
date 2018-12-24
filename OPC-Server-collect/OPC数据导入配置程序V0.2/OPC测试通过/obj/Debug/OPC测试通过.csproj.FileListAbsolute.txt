@@ -1,0 +1,104 @@
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\软件\OPC测试通过\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.pdb
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Debug\OPC测试通过.pdb

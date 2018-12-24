@@ -1,0 +1,170 @@
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.0\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.0\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\tingting\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.pdb
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.exe
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.pdb
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\ResolveAssemblyReference.cache
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\GenerateResource.read.1.tlog
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\GenerateResource.write.1.tlog
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.pdb
+D:\desk\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.3\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.4\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.5\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.6\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.7\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.8\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\Interop.VBIDE.dll
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC采集V0.9\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\obj\Debug\Interop.VBIDE.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC数据导入程序\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\obj\Debug\Interop.VBIDE.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC数据配置保存程序\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe.config
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\Interop.OPCAutomation.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\Interop.VBIDE.dll
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.ResolveComReference.cache
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\bin\Debug\OPC测试通过.exe
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\bin\Debug\OPC测试通过.pdb
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form1.resources
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.Form2.resources
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.MainFrom.resources
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC测试通过.Properties.Resources.resources
+C:\Users\Alex\Desktop\采集器程序\OPC数据保存配置程序V0.2\OPC测试通过\obj\Debug\OPC采集.csproj.GenerateResource.Cache

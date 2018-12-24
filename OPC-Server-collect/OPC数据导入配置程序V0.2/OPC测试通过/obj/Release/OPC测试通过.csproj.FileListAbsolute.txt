@@ -1,0 +1,90 @@
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\bin\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\绿巨人资料搜集\OPC测试通过\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+E:\服务器\opc\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+G:\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+G:\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+H:\开发\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\GTET.Collect\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\bin\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\OpcTest\OPC-single\OPC测试通过\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Release\OPC测试通过.exe.config
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\OPC测试通过.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Release\OPC测试通过.exe
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\bin\Release\OPC测试通过.pdb
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\OPC测试通过.MainFrom.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\OPC测试通过.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\采集器程序\OPC采集V0.0\OPC测试通过\obj\Release\GenerateResource.write.1.tlog
